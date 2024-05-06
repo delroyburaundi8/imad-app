@@ -1,0 +1,15 @@
+Name: Run tests
+0n:
+push:
+jobs:
+test:
+runs-on: ubuntu-latest
+steps:
+- name: Set up  JKD
+With:
+distribution:'adopt"
+java-version: '11'
+- name: Cheak out code
+uses: action/chechout@v2
+-name: Build and test
+run: _/gradlew
