@@ -1,0 +1,12 @@
+<resources>
+    <string name="feed_thank_you">Thank you, i am full</string>
+
+    <string name="play_with_me">I am bored, please play with me</string>
+
+    <string name="play_that_was_fun">Thank you,that was fun</string>
+
+    <string name="clean_nice_and_clean">All this playing made me tired,can you please clean me</string>
+
+    <string name="cleaned_message">nice and clean, i am going to take a nap now</string>
+    <string name="feed">Feed</string>
+</resources>
